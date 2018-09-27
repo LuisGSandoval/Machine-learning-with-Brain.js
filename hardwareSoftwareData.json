@@ -1,0 +1,51 @@
+[
+    {
+        "text": "My unit test failed",
+        "category": "Software"
+    },
+
+    {
+        "text": "tried the program, but it was too buggy",
+        "category": "Software"
+    },
+    {
+        "text": "I need a new power supply",
+        "category":"Hardware"
+    },
+    {
+        "text": "the drive has a 2TB capacity",
+        "category": "Hardware"
+    },
+    {
+        "text": "unit-tests",
+        "category":"Software"
+    },
+    {
+        "text": "program",
+        "category":"Software"
+    },
+    {
+        "text": "power supply",
+        "category":"Hardware"
+    },
+    {
+        "text":"it needs more memory",
+        "category":"Hardware"
+    },
+    {
+        "text":"code",
+        "category":"Software"
+    },
+    {
+        "text": "I found some bugs in the code",
+        "category":"Software"
+    },
+    {
+        "text": "I swapped the memory",
+        "category":"Hardware"
+    },
+    {
+        "text":"I tested the code",
+        "category":"Software"
+    }
+]
